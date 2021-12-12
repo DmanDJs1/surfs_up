@@ -50,10 +50,6 @@ def welcome():
 #create the route
 @app.route("/api/v1.0/precipitation")
 
-def precipitation():
-   prev_year = dt.date(2017, 8, 23) - dt.timedelta(days=365)
-   return
-
 #query to get the date and precipitation for the previous year.
 def precipitation():
    prev_year = dt.date(2017, 8, 23) - dt.timedelta(days=365)
