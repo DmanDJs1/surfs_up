@@ -18,7 +18,7 @@ After the first phase of our initial analysis, he has requested temperature data
 
 ![image](https://user-images.githubusercontent.com/91692536/145732643-5d597766-73f6-4f16-b51d-fcf77fbf300b.png)
 
-
+![image](https://user-images.githubusercontent.com/91692536/145732668-0c5a498d-6989-41fc-916a-6afba0bc8ab4.png)
 
 ## Conclusion:
 Our results have indicated that there were no real differences between the two months and the surf shop is a great investment year-round given our results from the analysis. The client can feel confident in his choice of location for this business venture.
