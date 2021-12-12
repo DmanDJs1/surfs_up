@@ -16,6 +16,8 @@ After the first phase of our initial analysis, he has requested temperature data
 
 • The minimum temperatures for the months of June and December were 64 ℉ and 56℉ respectively
 
+![image](https://user-images.githubusercontent.com/91692536/145732643-5d597766-73f6-4f16-b51d-fcf77fbf300b.png)
+
 
 
 ## Conclusion:
