@@ -21,6 +21,8 @@ After the first phase of our initial analysis, he has requested temperature data
 ![image](https://user-images.githubusercontent.com/91692536/145732668-0c5a498d-6989-41fc-916a-6afba0bc8ab4.png)
 
 ## Conclusion:
-Our results have indicated that there were no real differences between the two months and the surf shop is a great investment year-round given our results from the analysis. The client can feel confident in his choice of location for this business venture.
+Our results have indicated that there were no real differences between the two months and the surf shop is a great investment year-round given our results from the analysis. In addition the two queries below to support the overall analysis that our client should feel confident on this business venture.
 
 ![image](https://user-images.githubusercontent.com/91692536/146116043-b0c03291-cff6-4c8f-ad00-48b89c216fad.png)
+
+![image](https://user-images.githubusercontent.com/91692536/146116096-04999739-d8e9-441f-bf75-23fe1149cdfb.png)
